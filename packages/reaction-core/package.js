@@ -114,6 +114,7 @@ Package.onUse(function (api) {
   api.addAssets("private/data/i18n/ar.json", "server");
   api.addAssets("private/data/i18n/cn.json", "server");
   api.addAssets("private/data/i18n/cs.json", "server");
+  api.addAssets("private/data/i18n/ct.json", "server");
   api.addAssets("private/data/i18n/de.json", "server");
   api.addAssets("private/data/i18n/en.json", "server");
   api.addAssets("private/data/i18n/el.json", "server");
